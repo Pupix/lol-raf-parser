@@ -1,0 +1,29 @@
+{
+  "name": "lol-raf-parser",
+  "license": "MIT",
+  "description": "A parser for RAF files from League of Legends.",
+  "version": "0.8.0",
+  "homepage": "https://github.com/Pupix/lol-raf-parser",
+  "author": {
+    "name": "Robert Manolea",
+    "email": "manolea.robert@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pupix/lol-raf-parser.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Pupix/lol-raf-parser/issues"
+  },
+  "dependencies": {
+    "expandjs": "^0.10.0",
+    "mkdirp": "^0.5.1",
+    "lol-file-parser": "^0.10.0"
+  },
+  "keywords": [
+    "file parser",
+    "league of legends",
+    "lol",
+    "raf"
+  ]
+}
