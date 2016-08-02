@@ -10,10 +10,10 @@ lol-raf-parser is installable via:
 ## Usage example
 
 ```js
-var rmParser = require('lol-raf-parser'),
-    rm = new rmParser();
+var rafParser = require('lol-raf-parser'),
+    raf = new rafParser();
 
-    rm.read('raf', function (err, data) {
+    raf.read('Archive_1.raf', function (err, data) {
         console.log(data);
         //  {
         //    version: 1,
