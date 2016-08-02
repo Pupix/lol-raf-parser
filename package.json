@@ -2,7 +2,7 @@
   "name": "lol-raf-parser",
   "license": "MIT",
   "description": "A parser for RAF files from League of Legends.",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "homepage": "https://github.com/Pupix/lol-raf-parser",
   "author": {
     "name": "Robert Manolea",
